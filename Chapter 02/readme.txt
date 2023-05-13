@@ -18,5 +18,4 @@ List of code samples:-
 2.11:   Add infobar
 2.12:   Add contextual menu 
 
-@author: Bhaskar Chaudahary
-@publisher: Packt Publishing 
+
